@@ -20,7 +20,7 @@ import java.math.*;
 
 public class Main
 {
-	BufferedReader br=new BufferedReader(new InputStreamReader(SyQstem.in));
+	BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 	StringTokenizer tokenizer=null;
 	
 	public static void main(String[] args) throws IOException
